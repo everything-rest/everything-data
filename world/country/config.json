@@ -1,0 +1,5 @@
+{
+  "collection": "world",
+  "type":"country",
+  "id_field":"country-code"
+}

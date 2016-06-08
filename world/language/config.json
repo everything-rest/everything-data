@@ -1,0 +1,5 @@
+{
+  "collection": "world",
+  "type":"language",
+  "id_field":"id"
+}

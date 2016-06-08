@@ -1,0 +1,5 @@
+{
+  "collection": "world",
+  "type":"city",
+  "id_field":"id"
+}
