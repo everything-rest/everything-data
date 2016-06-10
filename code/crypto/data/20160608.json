@@ -1,0 +1,15 @@
+[
+  {
+    "name":"md5",
+    "wikipedia":"https://en.wikipedia.org/wiki/MD5",
+    "runnable":true,
+    "run": {
+      "parameters": [
+        {
+          "name": "input",
+          "type": "String"
+        }
+      ]
+    }
+  }
+]
