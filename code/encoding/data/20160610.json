@@ -1,0 +1,41 @@
+[
+  {
+    "name":"base64",
+    "wikipedia":"https://en.wikipedia.org/wiki/MD5",
+    "runnable":true,
+    "run": {
+      "parameters": [
+        {
+          "name": "action",
+          "type": "enum",
+          "values": ["encode","decode"]
+        },
+        {
+          "name": "input",
+          "type": "string"
+        }
+      ]
+    }
+  },
+  {
+    "name":"javascript_escape",
+    "wikipedia":"",
+    "runnable":true,
+    "run": {
+      "parameters": [
+        {
+          "name": "action",
+          "type": "enum",
+          "values": ["encode","decode"]
+        },
+        {
+          "name": "input",
+          "type": "string"
+        }
+      ]
+    }
+
+  }
+
+
+]

@@ -11,5 +11,40 @@
         }
       ]
     }
+  },
+  {
+    "name": "sha1",
+    "wikipedia": "https://en.wikipedia.org/wiki/SHA1",
+    "runnable": true,
+    "run": {
+      "parameters": [
+        {
+          "name": "input",
+          "type": "String"
+        }
+      ]
+    }
+  },
+  {
+    "name": "sha256",
+    "wikipedia": "https://en.wikipedia.org/wiki/SHA256",
+    "runnable": true,
+    "run": {
+      "parameters": [
+        {
+          "name": "input",
+          "type": "String"
+        }
+      ]
+    }
+  },
+  {
+    "name": "uuid",
+    "wikipedia": "https://en.wikipedia.org/wiki/Universally_unique_identifier",
+    "runnable": true,
+    "run": {
+      "parameters": []
+    }
   }
+
 ]
