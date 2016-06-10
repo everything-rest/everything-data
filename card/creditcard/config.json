@@ -1,0 +1,5 @@
+{
+  "collection": "card",
+  "type":"creditcard",
+  "id_field":"id"
+}
