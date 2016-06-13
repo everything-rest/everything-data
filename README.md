@@ -30,6 +30,7 @@ should be singular and have no spaces or special characters in it
     "id_field": "the name of the field that will be used as an ID"
 }```
 
+
 Collection and type should be the same of the containing directories
 
 * create a subdirectory named **data**. This is where the data goes in form of JSON files. The files should be named
