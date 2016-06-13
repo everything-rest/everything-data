@@ -28,7 +28,8 @@ should be singular and have no spaces or special characters in it
     "collection": "collection name",
     "type": "type name",
     "id_field": "the name of the field that will be used as an ID"
-}```
+}
+```
 
 
 Collection and type should be the same of the containing directories
