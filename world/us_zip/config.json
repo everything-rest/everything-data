@@ -1,0 +1,5 @@
+{
+  "collection": "world",
+  "type":"us_zip",
+  "id_field":"zip"
+}
