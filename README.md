@@ -1,6 +1,6 @@
 # everything-data
 
-## What is
+## What it is
 Everything-data is where everything.rest data is submitted to.
 **Everything.rest** is a open API containing data and algorithms that come handy while developing your server and
 client side applications.
