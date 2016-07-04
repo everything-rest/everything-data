@@ -1,0 +1,41 @@
+[
+  {
+    "name":"jwt_generate",
+    "wikipedia":"https://en.wikipedia.org/wiki/JSON_Web_Token",
+    "runnable":true,
+    "run": {
+      "parameters": [
+        {
+          "name": "algorithm",
+          "type": "string",
+          "enum": ["HS256","HS384","HS512", "RS256", "RS384", "RS512"]
+        },
+        {
+          "name": "payload",
+          "type": "string"
+        },
+        {
+          "name":"secret",
+          "type":"string"
+        }
+      ]
+    }
+  },
+  {
+    "name":"jwt_decode",
+    "wikipedia":"https://en.wikipedia.org/wiki/JSON_Web_Token",
+    "runnable":true,
+    "run": {
+      "parameters": [
+        {
+          "name":"token",
+          "type":"string"
+        },
+        {
+          "name":"key",
+          "type":"string"
+        }
+      ]
+    }
+  }
+]
