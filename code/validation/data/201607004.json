@@ -1,0 +1,15 @@
+[
+  {
+    "name": "email",
+    "wikipedia": "https://en.wikipedia.org/wiki/Email",
+    "runnable": true,
+    "run": {
+      "parameters": [
+        {
+          "name": "input",
+          "type": "string"
+        }
+      ]
+    }
+  }
+]

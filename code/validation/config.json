@@ -1,0 +1,5 @@
+{
+  "collection": "code",
+  "type":"validation",
+  "id_field":"name"
+}
